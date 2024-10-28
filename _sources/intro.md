@@ -34,13 +34,14 @@ Our study goes beyond theory, showing how AI/ML enables advancements in climate 
 
 Jupyter Books enable interactive learning, combining live code, simulations, and visualizations to break down complex concepts dynamically. On GitHub, you can access the latest course materials, explore datasets, and contribute to a collaborative environment. GitHub’s version control keeps our resources current and encourages continuous learning and improvement—an essential part of modern engineering and scientific practice.
 
-## Course Language: English for a Global Scientific Community
+## Why in English?
 
-While classes are in Spanish, course materials are in English to familiarize you with international terminology in AI and atmospheric sciences. Engaging with the content in English will also prepare you for **global collaboration** in research and industry, opening doors to **international conferences**, **publications**, and **partnerships**.
+While classes are in Spanish, course materials are in English to familiarize you with the technical terminology in AI and atmospheric sciences. Engaging with the content in English will also prepare you for **global collaboration** in research and industry, opening doors to  **global research efforts**, **international conferences**, **publications**, and **partnerships**. It’s an investment that will expand your opportunities both academically and professionally. Many of the key resources—such as academic papers, research articles, and advanced textbooks—are published in English, and mastering this language will help you stay connected with the **global scientific community**.
 
 ## A Bit About Me
 
-With a Ph.D. in Earth and Atmospheric Sciences from Georgia Institute of Technology and extensive experience in both climate science and data science, I’ve had the privilege of using ML to address atmospheric challenges across diverse fields. This course reflects my commitment to teaching not just the fundamentals of AI and ML but also how to apply them in meaningful ways within atmospheric sciences, contributing to sustainable solutions and innovative approaches to pressing global issues.
+I have a **Ph.D. in Earth and Atmospheric Sciences from Georgia Institute of Technology**, along with a **Masters in Oceanic and Atmospheric Sciences**, a **Masters in Water Resources**, and a **Civil Engineering degree**. My work has taken me through diverse fields—studying the behavior of **atmospheric currents**, understanding **water resources**, and applying **data science** to solve problems related to agriculture, energy, risk management, and climate. I’ve had the privilege of using ML to address atmospheric challenges across diverse fields. This course reflects my commitment to teaching not just the fundamentals of AI and ML but also how to apply them in meaningful ways within atmospheric sciences, contributing to sustainable solutions and innovative approaches to pressing global issues.
+
 
 ```{tableofcontents}
 ```
