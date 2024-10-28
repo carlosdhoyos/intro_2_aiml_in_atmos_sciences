@@ -1,6 +1,6 @@
 # Welcome to the AI and Machine Learning in Atmospheric Sciences Course
 
-My name is **Carlos D. Hoyos**, a professor at the **Universidad Nacional de Colombia, Facultad de Minas, Sede Medellín**. I’m here to guide you through the transformative intersection of atmospheric sciences and AI/ML. This course blends theory and hands-on applications, equipping you with skills to tackle real-world  challenges. Course materials are hosted as Jupyter Books on GitHub, where you can explore models and datasets, and engage directly with advanced AI/ML concepts tailored to atmospheric science.
+My name is **Carlos D. Hoyos**, a professor at the **Universidad Nacional de Colombia, Facultad de Minas, Sede Medellín**. I’m here to guide you through the transformative intersection of atmospheric sciences and AI/ML. This course blends theory and hands-on applications, equipping you with skills to tackle real-world  challenges. Course materials are hosted as Jupyter Books on GitHub, where you can explore models and datasets, and engage directly with advanced AI/ML concepts tailored to atmospheric science. This course also emphasizes recent advancements, including the work by NVIDIA, DeepMind, Microsoft, and Huawei, along with foundational ML theory and practical applications in atmospheric science.
 
 ## The Role of AI and ML in Atmospheric Sciences
 

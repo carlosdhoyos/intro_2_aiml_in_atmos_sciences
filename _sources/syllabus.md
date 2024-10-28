@@ -10,8 +10,6 @@ This graduate-level course explores the intersection of AI, ML, and atmospheric 
 
 ## Syllabus
 
-## Syllabus
-
 ### **Weeks 1-3: Introduction to AI, ML, and Core Concepts in Atmospheric Sciences**
 
 #### **Week 1: Overview of AI/ML in Atmospheric Sciences**
