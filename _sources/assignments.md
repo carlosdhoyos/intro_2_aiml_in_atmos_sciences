@@ -16,7 +16,7 @@ This article, *The future of climate modeling*, discusses the current state and 
    - Is cited within the primary article, or
    - Cites the primary article.
 
-You can search for related articles that have cited this work on Google Scholar: [Harnessing AI and computing to advance climate modelling and prediction](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Harnessing%20AI%20and%20computing%20to%20advance%20climate%20modelling%20and%20prediction&btnG=).
+You can search for related articles that have cited this work on Google Scholar: [Harnessing AI and computing to advance climate modelling and prediction](https://scholar.google.com/scholar?cites=9155263179351258030&as_sdt=2005&sciodt=0,5&hl=es).
 
 3. **High-Level Reading of the Secondary Article**  
    Read the second article at a high level. Focus on understanding the key accomplishments, methods, data used, and main challenges or criticisms discussed in the article. This is a preliminary identification task, so don't worry about understanding every technical detail.
