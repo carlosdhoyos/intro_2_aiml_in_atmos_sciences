@@ -1,12 +1,10 @@
-# Welcome to your Jupyter Book
-
 # Welcome to the AI and Machine Learning in Atmospheric Sciences Course
 
-My name is **Carlos D. Hoyos**, a professor at the **Universidad Nacional de Colombia, Facultad de Minas, Sede Medellín**. I’m here to guide you through the transformative intersection of atmospheric sciences and AI/ML. This course blends theory and hands-on applications, equipping you with skills to tackle real-world  challenges. Course materials are hosted as interactive Jupyter Books on GitHub, where you can explore models and datasets, and engage directly with advanced AI/ML concepts tailored to atmospheric science.
+My name is **Carlos D. Hoyos**, a professor at the **Universidad Nacional de Colombia, Facultad de Minas, Sede Medellín**. I’m here to guide you through the transformative intersection of atmospheric sciences and AI/ML. This course blends theory and hands-on applications, equipping you with skills to tackle real-world  challenges. Course materials are hosted as Jupyter Books on GitHub, where you can explore models and datasets, and engage directly with advanced AI/ML concepts tailored to atmospheric science.
 
 ## The Role of AI and ML in Atmospheric Sciences
 
-AI and ML are transforming atmospheric sciences by enabling faster, more accurate analysis of complex systems. Below are some key applications of AI and ML in this field:
+AI and ML are transforming atmospheric sciences by enabling faster, more accurate analysis of complex systems. However, **fully leveraging AI and ML requires a strong foundation in atmospheric sciences and the underlying physics governing these phenomena**. Without an understanding of atmospheric physics, data scientists and engineers may overlook critical constraints or make inaccurate predictions, especially when interpreting or applying AI models to real-world atmospheric systems.
 
 ### 1. Weather Forecasting Improvements
 AI enhances weather forecasting by working alongside traditional numerical weather prediction models. For instance, deep learning models such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs) help analyze vast datasets, providing quicker and potentially more accurate forecasts, especially for extreme weather events like hurricanes. Major weather agencies like the Met Office and ECMWF are actively developing AI applications to improve forecast accuracy at a fraction of the computational cost required by traditional methods&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.
