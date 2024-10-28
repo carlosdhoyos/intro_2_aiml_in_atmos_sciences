@@ -7,7 +7,8 @@ My name is **Carlos D. Hoyos**, a professor at the **Universidad Nacional de Col
 AI and ML are transforming atmospheric sciences by enabling faster, more accurate analysis of complex systems. However, **fully leveraging AI and ML requires a strong foundation in atmospheric sciences and the underlying physics governing these phenomena**. Without an understanding of atmospheric physics, data scientists and engineers may overlook critical constraints or make inaccurate predictions, especially when interpreting or applying AI models to real-world atmospheric systems.
 
 ### 1. Weather Forecasting Improvements
-AI enhances weather forecasting by working alongside traditional numerical weather prediction models. For instance, deep learning models such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs) help analyze vast datasets, providing quicker and potentially more accurate forecasts, especially for extreme weather events like hurricanes. Major weather agencies like the Met Office and ECMWF are actively developing AI applications to improve forecast accuracy at a fraction of the computational cost required by traditional methods&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.
+AI enhances weather forecasting by working alongside traditional numerical weather prediction models. For instance, deep learning models such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs) help analyze vast datasets, providing quicker and potentially more accurate forecasts, especially for extreme weather events like hurricanes. Major weather agencies, including the Met Office and ECMWF, are actively developing AI applications to improve forecast accuracy at a fraction of the computational cost required by traditional methods {cite}`berkeley2021machine, zheng2021development`.
+
 
 ### 2. Air Quality Monitoring and Prediction
 Machine learning models predict air quality by assessing pollutants like PM2.5, ozone, and nitrogen dioxide. These models, trained on satellite and ground sensor data, predict spatial and temporal patterns in pollution, aiding public health and environmental policies. For example, ML algorithms have been used to measure the effectiveness of air quality policies by identifying pollution trends and detecting hotspots&#8203;:contentReference[oaicite:2]{index=2}.
@@ -30,9 +31,19 @@ These applications showcase the essential role AI and ML play in advancing atmos
 
 Our study goes beyond theory, showing how AI/ML enables advancements in climate resilience, environmental protection, **energy**, and **agriculture**. For instance, machine learning helps improve **wind and solar energy forecasting**, optimize climate models, and predict extreme weather events. Additionally, AI-driven insights are crucial for managing **water resources** and informing climate adaptation policies. By mastering these techniques, you’ll gain a toolkit for addressing both global and local challenges.
 
-## Why Jupyter Books and GitHub?
 
-Jupyter Books enable interactive learning, combining live code, simulations, and visualizations to break down complex concepts dynamically. On GitHub, you can access the latest course materials, explore datasets, and contribute to a collaborative environment. GitHub’s version control keeps our resources current and encourages continuous learning and improvement—an essential part of modern engineering and scientific practice.
+## Why Jupyter Books?
+
+Jupyter Books provide a unique platform for integrating live code, dynamic visualizations, and interactive examples directly into our course materials. This allows us to break down complex concepts and equations in real-time, giving you the opportunity to not only read but also engage with the material. Imagine being able to **run a simulation** of a fluid system while learning the theory behind it, or exploring **interactive visualizations** that help you better grasp the forces at play in different fluid scenarios.
+
+The flexibility of Jupyter Books makes them an ideal medium for the topics of this course, a subject that often requires **hands-on analysis** and **computational tools** to fully understand. As we progress through the course, I encourage you to experiment with the code and simulations provided in these materials to deepen your learning. You can learn about Jupyter Books at [jupyterbook.org](https://jupyterbook.org).
+
+
+## Why GitHub?
+
+By hosting these materials on GitHub, I’m inviting you into a **collaborative learning environment**. Version control on GitHub ensures that the materials are always up to date, and it offers an opportunity for you to **suggest improvements**, raise issues, and even contribute to new content. This platform promotes transparency, community-driven learning, and continuous improvement—values that are essential in both academia and engineering practice.
+
+If you don’t already have a GitHub account, I recommend creating one, as it will be useful not only for this course but also for future projects and collaborations in your career.
 
 ## Why in English?
 
