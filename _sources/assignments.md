@@ -35,3 +35,17 @@ This article, *The future of climate modeling*, discusses the current state and 
 - Be prepared to discuss your findings in class.
 
 
+---
+
+## Potential Topics for Assignments
+
+1. **Week 1**: Complete a basic tutorial on Python and Jupyter Notebooks. Identify and summarize key AI/ML applications in atmospheric sciences by analyzing recent case studies.
+2. **Week 2**: Analyze a simplified Navier-Stokes model to visualize atmospheric flow dynamics, using Python. Review a basic NWP model setup and discuss the role of physical laws and computational limitations.
+3. **Week 3**: Write a brief report on a key atmospheric science challenge (e.g., extreme weather forecasting or climate downscaling) and propose how AI/ML could help address it. Use Jupyter Notebooks to visualize data from a modern atmospheric dataset (e.g., satellite or reanalysis data) and identify initial patterns relevant to atmospheric behavior.
+4. **Week 4**: Implement regression and classification tasks using atmospheric data in Python.
+5. **Week 6**: Build and evaluate a CNN for weather pattern recognition.
+6. **Week 8**: Develop a model to predict temperature and precipitation using RNN or LSTM.
+7. **Week 10**: Use a GAN to create synthetic weather scenarios and analyze model uncertainty.
+8. **Week 12**: Implement a PINN to simulate a basic atmospheric process, like temperature advection.
+9. **Week 14**: Apply UMAP on climate data for visualization; use SHAP to interpret a predictive model.
+10. **Final Project (Week 16)**: Apply a downscaling model to a coarse climate dataset; present results and analysis.
