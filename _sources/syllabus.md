@@ -8,7 +8,7 @@ This graduate-level course explores the intersection of AI, ML, and atmospheric 
 
 ---
 
-## Week-by-Week Syllabus
+## Syllabus
 ### **Weeks 1-3: Introduction to AI, ML, and Core Concepts in Atmospheric Sciences**
 
 #### **Week 1: Overview of AI/ML in Atmospheric Sciences**
@@ -76,7 +76,7 @@ This graduate-level course explores the intersection of AI, ML, and atmospheric 
 ## Learning Outcomes
 By the end of this course, students will:
 1. Understand fundamental AI and ML techniques and their applications in atmospheric sciences.
-2. Gain hands-on experience with neural networks, generative models, and interpretable ML.
+2. Gain hands-on experience with neural networks, and interpretable ML.
 3. Apply physics-informed AI and downscaling techniques to atmospheric datasets.
 4. Develop skills in working with atmospheric data to address challenges in climate resilience, energy forecasting, and environmental management.
 
@@ -90,9 +90,7 @@ By the end of this course, students will:
 
 ## Assessment
 - **Weekly Assignments**: 50% (hands-on coding and problem sets)
-- **Final Project**: 30% (develop an AI/ML model applied to a real-world atmospheric problem)
-- **Participation**: 20% (active engagement in discussions and collaborative work on GitHub)
+- **Final Project**: 50% (develop an AI/ML model applied to a real-world atmospheric problem)
 
 ## Additional Notes
-- **Course Language**: Course materials are provided in English to support familiarity with global research terminology.
-- **Collaboration**: Students are encouraged to participate in discussions on GitHub, fostering collaborative learning and continuous improvement.
+- **Collaboration**: Students are encouraged to participate in discussions, fostering collaborative learning and continuous improvement.
