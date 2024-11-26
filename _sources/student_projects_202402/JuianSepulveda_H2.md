@@ -226,7 +226,6 @@ dynamics are linearized globally" |
 
 
 
-
 ## Challenges and Future Directions
 - Symbolic regression can complement deep learning by deriving interpretable equations directly from data, suggesting untapped potential in other areas of Earth system science and beyond.
 - One obstacle in integrating subgrid-scale organization into parameterizations is determining how to obtain useful informa-
